@@ -72,6 +72,11 @@
 - Функциональное программирование
 - Оптимизация производительности
 
+## *Сертификаты HackerRank*
+- [Problem Solving (Basic)](https://www.hackerrank.com/certificates/iframe/aa715a634f0b)
+- [JavaScript (Basic)](https://www.hackerrank.com/certificates/iframe/e7b7e47c3607)
+- [SQL (Basic)](https://www.hackerrank.com/certificates/iframe/7b874a12da9b)
+
 ## *Проекты для саморазвития:*
 - Участие в проекте Real World (https://github.com/gothinkster/realworld)
   - Реализация сервиса на Symfony(https://github.com/Askarikus/realworld-starter-kit-backend-symfony.git)
