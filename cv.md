@@ -4,9 +4,10 @@
 
 ## *Контактная информация:*
 
-#### Телефон: +382 68 647 137
-#### E-mail: askarikus@yandex.ru
-#### Telegram: @AskarMini
+#### Телефон RUS: +7 960 393 76 30
+#### Телефон MNE: +382 68 647 137
+#### E-mail: gali.askar23@yandex.ru
+#### Telegram: @gali_askar
 #### GitHub: Askarikus
 
 ## *О себе:*
